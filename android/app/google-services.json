@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144633077731",
+    "project_id": "hrmanager-9732f",
+    "storage_bucket": "hrmanager-9732f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144633077731:android:929ce9645737c865b44ad6",
+        "android_client_info": {
+          "package_name": "mas.mahmoudsh.hr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144633077731-0g03mvuqbhg21k7vg3cvkor6k1pmbqht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7UaLTkPp9TRyxIYftMcvDBLWt4RG3kyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144633077731-0g03mvuqbhg21k7vg3cvkor6k1pmbqht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
